@@ -39,7 +39,7 @@ In this analysis we would apply a discriminative lsupervised learing algorythem 
 
 The Confusion Matrix based on the testing dataset shows the following:
 
-![Confusion Matrix](Output\confusion_matrix.png)
+![Confusion Matrix](Output/confusion_matrix.png)
 
 True High Risk loans numbers (56 + 563 = 619) are emuch smaller in comparison to the True Health Loans (18663 + 102 = 18765). This is makes this dataset unbalanced.
 
