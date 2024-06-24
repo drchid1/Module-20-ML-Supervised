@@ -1,5 +1,9 @@
 # Module 20 ML Supervised
 
+## File Structre
+
+The Jupyter Noteboook with the Code can be found as [credit_risk_classification](credit_risk_classification.ipynb)
+
 ## Overview of the Analysis
 
 The assignment was to analyse a lending dataset and then be able to predict if a loan was healthy or high risk.  We used a supervised Machine Learning algorithm for this analysis. The dataset consisted of the following fields:
