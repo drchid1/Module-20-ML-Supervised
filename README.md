@@ -1,8 +1,8 @@
 # Module 20 ML Supervised
 
-## File Structre
+## File Structure
 
-The Jupyter Noteboook with the Code can be found as [credit_risk_classification](credit_risk_classification.ipynb). The original data set can be found in the [Resources](Resources) Folder. The output confusion matrix image can be found in the [Output](Output) Folder.
+The Jupyter Notebook with the Code can be found as [credit_risk_classification](credit_risk_classification.ipynb). The original data set can be found in the [Resources](Resources) Folder. The output confusion matrix image can be found in the [Output](Output) Folder.
 
 ## Overview of the Analysis
 
